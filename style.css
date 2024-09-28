@@ -20,3 +20,11 @@ p{
     color:orange;
     font-family: "Luckiest Guy";
 }
+
+.beginbtn{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
