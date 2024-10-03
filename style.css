@@ -21,6 +21,10 @@ p{
     font-family: "Luckiest Guy";
 }
 
+body{
+    background: #474A53;
+}
+
 .container{
     height: 200px;
     position: relative;
